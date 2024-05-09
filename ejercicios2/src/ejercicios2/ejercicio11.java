@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class ejercicio11 {
 
 	 public static void main(String[] args) {
-	        Scanner scanner = new Scanner(System.in);
+	 Scanner scanner = new Scanner(System.in);
 	        System.out.println("Ingrese el valor límite: ");
 	        int x = scanner.nextInt();
 	        int sumaAcumulada = 0;
